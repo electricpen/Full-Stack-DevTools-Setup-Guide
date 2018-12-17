@@ -93,7 +93,7 @@ You can install this with npm:
 
 ### Databases
 
-Any database you want to use in development needs to be installed on your system in general. There are so many databases out there that it is not possible to have a reasonable discussion of what to choose here. Below are a list of some popular databases.
+Any database you want to use in development generally needs to be installed on your system globally. There are so many databases out there that it is not possible to have a reasonable discussion of what to choose here. Below are a list of some popular databases.
 
 #### Relational DBs
 
